@@ -57,7 +57,6 @@ class DataConst:
 
         def get_attrs():
 
-[FILL IN]
 
 # Find and get the related document from Yargitay
 def get_document(mahkeme_turu, esasNo, esasYil, kararYil, kararNo) -> List:
